@@ -6,11 +6,16 @@ A fully responsive, one-page website designed for a local bakery or cafe. This p
 
 ## 🚀 Live Preview
 
-The landing page is deployed via GitHub Pages and is publicly accessible here:
+Experience the live website:
 
-[**View the Bakery Landing Page**](https://ElisabethPO.github.io/Bakery-landing-page/)
+[**Bakery Landing Page**](https://ElisabethPO.github.io/Bakery-landing-page/)
 
 -----
+
+## 🎨 Design Reference
+This project is implemented based on the following design specification:
+
+https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1
 
 ## 💻 Technologies Used
 
@@ -42,7 +47,7 @@ Open your terminal and execute the following commands:
 
 ```bash
 git clone https://github.com/ElisabethPO/Bakery-landing-page.git
-cd bakery-landing-page
+cd Bakery-landing-page
 ```
 
 ### 2\. Install dependencies
@@ -51,6 +56,8 @@ Install all required packages (Gulp and linters):
 
 ```bash
 npm install
+# or
+yarn install
 ```
 
 ### 3\. Run the project locally
@@ -59,3 +66,5 @@ Start the local development server:
 
 ```bash
 npm start
+# or
+yarn start
