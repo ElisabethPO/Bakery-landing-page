@@ -51,6 +51,7 @@ Install all required packages (Gulp and linters):
 
 ```bash
 npm install
+```
 
 ### 3\. Run the project locally
 
